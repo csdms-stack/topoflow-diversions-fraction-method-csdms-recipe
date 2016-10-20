@@ -1,4 +1,4 @@
-{% set name = "topoflow-diversions-fraction-method-csdms" %}
+{% set name = "csdms-topoflow-diversions-fraction-method" %}
 {% set version = "3.4" %}
 
 package:
